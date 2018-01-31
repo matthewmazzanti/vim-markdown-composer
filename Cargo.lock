@@ -29,7 +29,7 @@ dependencies = [
 [[package]]
 name = "aurelius"
 version = "0.6.0"
-source = "git+https://github.com/matthewmazzanti/aurelius.git#0644adf8b627e56a851871e5e8ea7831e56afc0b"
+source = "git+https://github.com/matthewmazzanti/aurelius.git#a67e8b4fe8cb6302191a85426261b37359a072fc"
 dependencies = [
  "chan 0.1.20 (registry+https://github.com/rust-lang/crates.io-index)",
  "error-chain 0.11.0 (registry+https://github.com/rust-lang/crates.io-index)",
