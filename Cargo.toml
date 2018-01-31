@@ -5,7 +5,7 @@ authors = ["Andy Russell <arussell123@gmail.com>"]
 description = "A complete solution for previewing markdown."
 
 [dependencies]
-aurelius = { git = "https://github.com/matthewmazzanti/aurelius.git" }
+aurelius = { path = "../aurelius" }
 clap = "2"
 log = "0.4"
 log-panics = { version = "2", features = ["with-backtrace"] }
